@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定資治通鑑綱目三編
+#+DATE: 2015-08-24 22:25:49.510953
+#+PROPERTY: ID KR2b0038
+#+PROPERTY: BASEEDITION WYG    
